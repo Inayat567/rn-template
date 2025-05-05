@@ -1,0 +1,21 @@
+{
+    "name": "react-native-template-custom",
+    "version": "1.0.0",
+    "description": "My custom React Native template for TicketNow projects",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Inayat567/rn-template.git"
+    },
+    "license": "MIT",
+    "keywords": [
+      "react-native",
+      "template"
+    ],
+    "dependencies": {
+      "react": "19.0.0",
+      "react-native": "^0.79.0",
+      "@react-navigation/native": "^6.0.8",
+      "react-native-safe-area-context": "^5.1.0",
+      "react-native-screens": "^4.9.1"
+    }
+  }
